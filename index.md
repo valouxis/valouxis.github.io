@@ -8,6 +8,7 @@ _8-10-2019_ Β. Κολώνιας
 _15-10-2019_  
 * [Προγραμματισμός συστημάτων κοινόχρηστης μνήμης με OpenMP](https://github.com/valouxis/valouxis.github.io/blob/master/Chapter_5.pdf)
 * [OpenMP 4.5 API C/C++ Syntax Reference Guide](https://github.com/valouxis/valouxis.github.io/blob/master/OpenMP-4.5.pdf)
+* [OpenMP παραδείγματα](https://github.com/valouxis/valouxis.github.io/blob/master/openMP.zip)
 
 _22-10-2019_ Π. Αλεφραγκής
 
